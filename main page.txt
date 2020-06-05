@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<body>
+
+<h1>main page </h1>
+
+<title>programming language </title>
+<h6>links</h6>
+<ul>
+  <li><vip><a href="https://www.programming language types.com">programming language types</a></vip></li>
+  <li><vip><a href="https://www.programming language basics.com">programming language basics</a></vip></li>
+<li>
+<vip><a href="https://ww.programming language history.com">programming language history</a></vip></li>
+<li>
+<vip><a href="https://www.programming language applications.com">programming language applications</a></vip></li>
+<li><vip><a href="https://www.main page.com">main page</a></vip></li>
+</ul>
+
+</head>
+
+</body>
+</html>

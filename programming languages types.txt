@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<body>
+
+<h1>progarming languages types </h1>
+
+<title>progarming languages types</title>
+<h6>links</h6>
+<ul>
+  <li><vip><a href="https://www.programming language basics.com">programming language basics</a></vip></li>
+<li>
+<vip><a href="https://ww.programming language history.com">programming language history</a></vip></li>
+<li>
+<vip><a href="https://www.programming language applications.com">programming language applications</a></vip></li>
+<li><vip><a href="https://www.main page.com">main page</a></vip></li>
+</ul>
+<vip><img src=" types.jpg" alt="programming language types" width="104" height="142">
+<vip><img src="types2jpg" alt="programming language type" width="104" height="142">
+
+</head>
+
+</body>
+</html>
